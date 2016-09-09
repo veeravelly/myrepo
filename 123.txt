@@ -1,1 +1,2 @@
 first line of 123.txt
+second line of 123.txt
