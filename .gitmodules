@@ -1,0 +1,3 @@
+[submodule "mod/second_repo"]
+	path = mod/second_repo
+	url = https://github.com/veeravelly/second_repo.git
